@@ -1,0 +1,217 @@
+TeamName,True_Label,Pred_Label,P_Q1,P_Q2,P_Q3,P_Q4
+Bucknell,Q4,Q4,0.0,0.02,0.29,0.69
+TCU,Q2,Q2,0.31,0.5,0.1,0.09
+Colgate,Q4,Q4,0.01,0.21,0.38,0.4
+Gonzaga,Q1,Q1,0.43,0.25,0.27,0.05
+Texas Tech,Q1,Q1,0.57,0.36,0.05,0.02
+Bradley,Q2,Q1,0.5,0.26,0.19,0.05
+Mercer,Q4,Q4,0.0,0.02,0.41,0.57
+Bucknell,Q4,Q4,0.0,0.0,0.22,0.78
+San Diego,Q4,Q3,0.0,0.01,0.52,0.47
+Stetson,Q4,Q4,0.0,0.05,0.36,0.59
+Detroit Mercy,Q4,Q4,0.0,0.0,0.45,0.55
+California,Q3,Q4,0.1,0.24,0.2,0.46
+Southern U.,Q4,Q4,0.02,0.01,0.31,0.66
+UTSA,Q4,Q4,0.0,0.09,0.28,0.63
+Troy,Q3,Q3,0.01,0.1,0.5,0.39
+UIW,Q4,Q4,0.0,0.0,0.11,0.89
+Memphis,Q1,Q2,0.22,0.52,0.16,0.1
+La Salle,Q3,Q2,0.14,0.4,0.28,0.18
+Georgia St.,Q4,Q4,0.0,0.02,0.27,0.71
+Colorado,Q1,Q1,0.44,0.25,0.26,0.05
+Delaware St.,Q4,Q4,0.0,0.01,0.27,0.72
+The Citadel,Q4,Q4,0.0,0.0,0.1,0.9
+Hawaii,Q3,Q3,0.08,0.3,0.46,0.16
+Florida,Q1,Q1,0.49,0.25,0.25,0.01
+St. Francis Brooklyn,Q4,Q4,0.0,0.01,0.12,0.87
+Nevada,Q2,Q1,0.53,0.18,0.26,0.03
+Ohio,Q3,Q3,0.0,0.1,0.63,0.27
+Purdue,Q1,Q1,0.83,0.09,0.08,0.0
+Montana,Q3,Q4,0.01,0.11,0.17,0.71
+Siena,Q4,Q4,0.0,0.07,0.29,0.64
+Davidson,Q3,Q3,0.17,0.17,0.43,0.23
+Air Force,Q3,Q4,0.01,0.0,0.44,0.55
+Marist,Q4,Q4,0.02,0.05,0.36,0.57
+Idaho,Q4,Q4,0.0,0.0,0.22,0.78
+UMBC,Q4,Q4,0.05,0.01,0.4,0.54
+UC Riverside,Q3,Q4,0.04,0.07,0.43,0.46
+Columbia,Q4,Q4,0.0,0.0,0.09,0.91
+Iona,Q4,Q4,0.13,0.23,0.3,0.34
+Massachusetts,Q4,Q2,0.19,0.66,0.1,0.05
+Fla. Atlantic,Q1,Q3,0.07,0.19,0.5,0.24
+Pepperdine,Q4,Q4,0.0,0.07,0.34,0.59
+Fresno St.,Q4,Q3,0.02,0.15,0.43,0.4
+Marshall,Q4,Q3,0.19,0.2,0.34,0.27
+Charlotte,Q3,Q3,0.03,0.01,0.48,0.48
+Alabama,Q1,Q1,0.84,0.02,0.14,0.0
+Xavier,Q1,Q2,0.27,0.62,0.09,0.02
+Iowa,Q2,Q1,0.49,0.33,0.15,0.03
+Missouri,Q1,Q2,0.19,0.37,0.35,0.09
+Louisville,Q4,Q2,0.26,0.35,0.22,0.17
+George Washington,Q3,Q2,0.24,0.36,0.31,0.09
+Penn,Q4,Q3,0.05,0.11,0.44,0.4
+UNC Greensboro,Q3,Q3,0.03,0.07,0.52,0.38
+Hofstra,Q2,Q3,0.08,0.28,0.43,0.21
+Xavier,Q1,Q1,0.56,0.28,0.12,0.04
+Washington,Q3,Q1,0.4,0.24,0.25,0.11
+Manhattan,Q4,Q4,0.0,0.0,0.06,0.94
+CSU Bakersfield,Q4,Q4,0.0,0.0,0.1,0.9
+Central Ark.,Q4,Q4,0.0,0.0,0.16,0.84
+Georgia Tech,Q3,Q2,0.19,0.34,0.33,0.14
+VCU,Q2,Q1,0.33,0.25,0.29,0.13
+Radford,Q4,Q3,0.0,0.03,0.59,0.38
+Northwestern St.,Q4,Q4,0.0,0.02,0.06,0.92
+Arkansas,Q1,Q1,0.43,0.32,0.24,0.01
+Bowling Green,Q4,Q4,0.0,0.01,0.25,0.74
+UNI,Q2,Q3,0.21,0.28,0.33,0.18
+South Dakota St.,Q3,Q3,0.02,0.11,0.6,0.27
+Utah St.,Q1,Q1,0.67,0.22,0.1,0.01
+Purdue Fort Wayne,Q3,Q3,0.01,0.02,0.54,0.43
+Southern Utah,Q4,Q4,0.0,0.03,0.12,0.85
+Alabama,Q1,Q3,0.36,0.21,0.41,0.02
+Dayton,Q2,Q3,0.22,0.3,0.41,0.07
+Western Ill.,Q4,Q4,0.02,0.03,0.2,0.75
+Clemson,Q1,Q1,0.47,0.05,0.45,0.03
+Southern Ill.,Q3,Q3,0.03,0.37,0.53,0.07
+Norfolk St.,Q3,Q3,0.02,0.1,0.5,0.38
+Furman,Q3,Q3,0.02,0.06,0.74,0.18
+Villanova,Q1,Q2,0.36,0.39,0.19,0.06
+SFA,Q3,Q3,0.05,0.22,0.51,0.22
+Wichita St.,Q3,Q3,0.24,0.25,0.46,0.05
+Grand Canyon,Q3,Q3,0.0,0.08,0.67,0.25
+Belmont,Q3,Q3,0.04,0.28,0.43,0.25
+Winthrop,Q3,Q3,0.0,0.01,0.5,0.49
+North Texas,Q1,Q3,0.23,0.31,0.36,0.1
+CSUN,Q4,Q4,0.0,0.02,0.19,0.79
+Saint Joseph's,Q2,Q2,0.13,0.36,0.29,0.22
+Queens (NC),Q3,Q4,0.07,0.06,0.28,0.59
+Northern Ky.,Q3,Q4,0.0,0.03,0.44,0.53
+Wichita St.,Q3,Q1,0.37,0.28,0.28,0.07
+Georgetown,Q4,Q4,0.13,0.25,0.16,0.46
+UC Santa Barbara,Q4,Q3,0.0,0.02,0.7,0.28
+Sacred Heart,Q4,Q4,0.0,0.0,0.13,0.87
+Fresno St.,Q3,Q3,0.17,0.28,0.38,0.17
+Marist,Q3,Q4,0.0,0.06,0.19,0.75
+Dartmouth,Q4,Q4,0.0,0.0,0.13,0.87
+Presbyterian,Q4,Q4,0.0,0.01,0.11,0.88
+LSU,Q2,Q3,0.33,0.32,0.34,0.01
+San Francisco,Q2,Q2,0.1,0.47,0.33,0.1
+Portland,Q4,Q3,0.06,0.1,0.52,0.32
+UTRGV,Q4,Q4,0.0,0.0,0.09,0.91
+Milwaukee,Q4,Q4,0.0,0.01,0.1,0.89
+Grand Canyon,Q1,Q3,0.11,0.21,0.53,0.15
+Minnesota,Q4,Q2,0.34,0.36,0.21,0.09
+Villanova,Q2,Q1,0.48,0.39,0.1,0.03
+Ole Miss,Q3,Q1,0.36,0.3,0.29,0.05
+James Madison,Q2,Q3,0.05,0.04,0.59,0.32
+LIU,Q4,Q4,0.0,0.0,0.11,0.89
+Harvard,Q3,Q4,0.07,0.08,0.18,0.67
+South Alabama,Q3,Q4,0.05,0.18,0.29,0.48
+Alabama St.,Q4,Q4,0.0,0.01,0.1,0.89
+Louisiana Tech,Q3,Q3,0.03,0.27,0.44,0.26
+Hampton,Q4,Q4,0.0,0.04,0.08,0.88
+Southern Miss.,Q4,Q3,0.05,0.06,0.52,0.37
+Northeastern,Q4,Q4,0.0,0.0,0.04,0.96
+VCU,Q1,Q1,0.53,0.08,0.36,0.03
+Temple,Q3,Q1,0.4,0.25,0.18,0.17
+Bellarmine,Q4,Q4,0.02,0.04,0.24,0.7
+Houston,Q1,Q1,0.82,0.03,0.14,0.01
+South Alabama,Q3,Q4,0.02,0.03,0.29,0.66
+Holy Cross,Q4,Q4,0.0,0.0,0.11,0.89
+St. Bonaventure,Q3,Q1,0.44,0.19,0.29,0.08
+Loyola Maryland,Q4,Q4,0.0,0.03,0.19,0.78
+Penn St.,Q2,Q1,0.52,0.31,0.16,0.01
+SFA,Q3,Q3,0.05,0.19,0.55,0.21
+UC Irvine,Q2,Q4,0.0,0.13,0.43,0.44
+Prairie View,Q4,Q4,0.0,0.0,0.19,0.81
+Wright St.,Q3,Q4,0.04,0.08,0.43,0.45
+Tennessee Tech,Q4,Q4,0.0,0.02,0.24,0.74
+Georgetown,Q4,Q4,0.09,0.18,0.3,0.43
+App State,Q3,Q3,0.08,0.28,0.45,0.19
+Middle Tenn.,Q3,Q2,0.11,0.43,0.3,0.16
+Southern U.,Q4,Q4,0.02,0.05,0.36,0.57
+Bethune-Cookman,Q4,Q4,0.0,0.03,0.26,0.71
+App State,Q3,Q3,0.22,0.22,0.42,0.14
+Prairie View,Q4,Q4,0.0,0.0,0.1,0.9
+Mississippi Val.,Q4,Q4,0.01,0.04,0.18,0.77
+Harvard,Q4,Q4,0.01,0.05,0.41,0.53
+N.C. Central,Q4,Q4,0.02,0.13,0.29,0.56
+San Jose St.,Q2,Q4,0.03,0.07,0.29,0.61
+Monmouth,Q4,Q4,0.09,0.26,0.28,0.37
+UTRGV,Q4,Q4,0.0,0.06,0.1,0.84
+UT Martin,Q4,Q4,0.0,0.1,0.39,0.51
+Northeastern,Q4,Q4,0.01,0.09,0.1,0.8
+Seton Hall,Q2,Q3,0.33,0.17,0.4,0.1
+UCF,Q2,Q1,0.47,0.25,0.2,0.08
+Saint Francis (PA),Q4,Q4,0.0,0.0,0.08,0.92
+Lipscomb,Q2,Q4,0.18,0.15,0.32,0.35
+VMI,Q4,Q4,0.01,0.03,0.26,0.7
+Memphis,Q2,Q1,0.63,0.25,0.1,0.02
+Coastal Carolina,Q4,Q3,0.06,0.11,0.43,0.4
+Baylor,Q1,Q1,0.8,0.07,0.12,0.01
+Stony Brook,Q3,Q4,0.0,0.0,0.08,0.92
+Utah,Q2,Q3,0.05,0.08,0.46,0.41
+Penn St.,Q2,Q3,0.22,0.34,0.38,0.06
+Marshall,Q3,Q3,0.1,0.16,0.47,0.27
+Abilene Christian,Q4,Q3,0.0,0.04,0.54,0.42
+Wake Forest,Q1,Q2,0.21,0.69,0.05,0.05
+New Mexico,Q1,Q1,0.56,0.19,0.24,0.01
+Alabama A&M;,Q4,Q4,0.0,0.0,0.35,0.65
+Akron,Q2,Q3,0.12,0.27,0.51,0.1
+Norfolk St.,Q4,Q4,0.02,0.09,0.41,0.48
+South Carolina St.,Q3,Q4,0.0,0.01,0.24,0.75
+Fordham,Q3,Q2,0.25,0.42,0.13,0.2
+Denver,Q4,Q4,0.0,0.02,0.32,0.66
+LSU,Q3,Q1,0.42,0.26,0.32,0.0
+McNeese,Q4,Q4,0.0,0.03,0.17,0.8
+Boston U.,Q4,Q4,0.05,0.0,0.33,0.62
+Abilene Christian,Q4,Q4,0.07,0.02,0.44,0.47
+VCU,Q2,Q1,0.55,0.29,0.14,0.02
+Wisconsin,Q2,Q1,0.7,0.15,0.14,0.01
+South Fla.,Q3,Q1,0.34,0.33,0.3,0.03
+Arkansas St.,Q2,Q3,0.1,0.06,0.44,0.4
+Maine,Q4,Q4,0.0,0.0,0.19,0.81
+Oakland,Q4,Q4,0.01,0.07,0.33,0.59
+Temple,Q3,Q2,0.17,0.34,0.26,0.23
+Binghamton,Q4,Q4,0.0,0.0,0.18,0.82
+Central Mich.,Q4,Q4,0.0,0.01,0.11,0.88
+Southern U.,Q4,Q4,0.0,0.0,0.19,0.81
+Notre Dame,Q3,Q1,0.31,0.3,0.27,0.12
+Texas Tech,Q2,Q1,0.44,0.36,0.18,0.02
+North Dakota,Q4,Q4,0.01,0.0,0.34,0.65
+Evansville,Q4,Q4,0.0,0.08,0.13,0.79
+Michigan,Q1,Q1,0.32,0.27,0.28,0.13
+Illinois,Q1,Q1,0.79,0.12,0.08,0.01
+Old Dominion,Q4,Q4,0.01,0.05,0.2,0.74
+TCU,Q1,Q1,0.55,0.24,0.16,0.05
+Hawaii,Q3,Q3,0.15,0.12,0.37,0.36
+DePaul,Q3,Q4,0.13,0.31,0.13,0.43
+Temple,Q3,Q3,0.07,0.29,0.48,0.16
+Long Beach St.,Q4,Q3,0.03,0.04,0.5,0.43
+Quinnipiac,Q3,Q3,0.02,0.08,0.56,0.34
+Fairfield,Q3,Q4,0.0,0.01,0.23,0.76
+UMBC,Q4,Q4,0.0,0.04,0.29,0.67
+South Dakota St.,Q3,Q3,0.03,0.34,0.37,0.26
+North Carolina,Q1,Q1,0.6,0.1,0.25,0.05
+Kansas City,Q4,Q4,0.01,0.06,0.32,0.61
+Northwestern,Q2,Q2,0.19,0.71,0.05,0.05
+McNeese,Q2,Q3,0.02,0.17,0.41,0.4
+Western Ill.,Q4,Q3,0.05,0.02,0.49,0.44
+Syracuse,Q2,Q2,0.24,0.51,0.15,0.1
+FIU,Q4,Q3,0.0,0.04,0.63,0.33
+Eastern Ill.,Q4,Q4,0.0,0.0,0.15,0.85
+Buffalo,Q4,Q3,0.07,0.23,0.56,0.14
+Lafayette,Q4,Q4,0.01,0.01,0.15,0.83
+Mississippi St.,Q1,Q3,0.3,0.21,0.46,0.03
+VMI,Q4,Q4,0.0,0.01,0.11,0.88
+Cornell,Q3,Q4,0.02,0.25,0.21,0.52
+Baylor,Q1,Q1,0.61,0.31,0.08,0.0
+Syracuse,Q3,Q2,0.29,0.45,0.17,0.09
+North Dakota St.,Q4,Q4,0.0,0.08,0.31,0.61
+Coppin St.,Q4,Q4,0.02,0.03,0.08,0.87
+UAB,Q3,Q3,0.06,0.23,0.54,0.17
+Vanderbilt,Q4,Q1,0.54,0.04,0.37,0.05
+Saint Peter's,Q3,Q4,0.0,0.01,0.19,0.8
+Ohio St.,Q1,Q1,0.43,0.33,0.21,0.03
+Missouri,Q3,Q1,0.72,0.15,0.12,0.01
+Marist,Q4,Q4,0.02,0.07,0.22,0.69
