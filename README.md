@@ -23,6 +23,11 @@ Notes
 
 ## Running the notebooks
 
+### Data sources
+
+- **Game and team data:** Massey Ratings (all Division I men's and women's games/teams). The raw Massey downloads live under `data/raw/`.
+- **Ranking data:** An older version of the NCAA NET rankings pages accessed via the Internet Archive for the specific season. Rankings are captured right before Selection Sunday (e.g., the 2025 rankings snapshot is taken just before 2025 Selection Sunday) to avoid contaminating the dataset with tournament results.
+
 ### Prerequisites
 
 Install Python 3.10+ and the packages commonly used across the notebooks:
@@ -42,17 +47,20 @@ pip install requests beautifulsoup4 lxml
 
 The notebooks build on each other. If you start from raw data, run them in this order:
 
-1. **Scraping/collection notebooks** (if you want to refresh raw data)
-   - Look for notebooks in `notebooks/` with names referencing "scrape", "data collection", or "rankings".
-   - These populate or update `data/raw/` folders.
-2. **Data cleaning and feature engineering**
-   - Notebooks that read from `data/raw/` and write consolidated CSVs into `data/processed/` (often named with "clean", "prep", or "feature").
-   - Output is usually one or more `ncaa_data_all*.csv` files in `data/processed/`.
-3. **Model training & evaluation**
-   - Notebooks that load from `data/processed/` and write results to `reports/outputs/` and model artifacts to `models/`.
-   - Deep learning notebooks are under `notebooks/deep learning/` and write plots to `reports/Deep Learning Results/`.
-4. **Visualization & reporting**
-   - Notebooks that read predictions or evaluation CSVs and write figures to `reports/figures/`.
+1. **Scrape and assemble raw sources**
+   - Run `scrape_ncaa_games` first. It processes the Massey files and scrapes the NCAA NET ranking URLs (via the Internet Archive).
+   - This step produces the season-level inputs used for merges downstream.
+2. **Merge rankings with stats**
+   - Run `rankings_stats_table_merge`.
+   - Manually match team names between the stats tables and ranking tables so the merge succeeds (this is required for every season).
+3. **Set quadrant rankings (per year)**
+   - After the merge, set the quadrant rankings for that season.
+   - Repeat the merge + quadrant-setting process for each year you want to include.
+4. **Build the final classification table**
+   - Use the final merged, multi-year table from `rankings_stats_table_merge` as input for classification.
+   - From here, run any modeling notebooks you prefer (classical ML or deep learning).
+5. **Visualization & reporting**
+   - Notebooks that read predictions or evaluation CSVs and write figures to `reports/figures/` or `reports/Deep Learning Results/`.
 
 ### Getting results from the notebooks
 
@@ -78,3 +86,13 @@ The notebooks typically train and compare multiple model families:
 - **Deep learning models:** PyTorch-based networks in `notebooks/deep learning/`, with outputs in `reports/Deep Learning Results/`.
 
 Look for notebook sections labeled *Model*, *Training*, or *Evaluation* to see each model's specific hyperparameters and metrics.
+
+## Demo results
+
+Z-score distribution table:
+
+![Z-score distributions](reports/figures/zscore_distributions.png)
+
+Confusion matrix example:
+
+![Men's confusion matrix](reports/Deep%20Learning%20Results/M_confusion_matrix_f1.png)
