@@ -1,4 +1,4 @@
-# Project layout (no files renamed)
+# Project layout
 
 ```
 .
